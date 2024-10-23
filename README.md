@@ -15,22 +15,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nithin9585/count.svg?"  />
-</div>
-
-###
 
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
 
 ###
 
 <br clear="both">
 
-<p align="left">I'm ... from ....Mysore<br><br>- 🔭 I’m a Student <br>- 📚 Exploring AI</p>
 
 ###
 
@@ -66,12 +62,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nithin9585&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+ </div>
 
 ###
