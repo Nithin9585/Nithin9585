@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <h3 align="center">
-I'm <b>Nithin</b>  Full Stack Developer | AI/ML & Web3 Enthusiast 
+I'm <b>Nithin</b> — Full Stack Developer | AI/ML & Web3 Enthusiast
 </h3>
 
 <p align="center">
@@ -25,10 +25,10 @@ I build real-world applications, explore AI & Blockchain, and contribute to open
 ## 👨‍💻 About Me
 
 - 🎓 Integrated **M.Tech (AI & ML)** @ **VIT Bhopal**
-- 💻 Full Stack Developer (MERN, Next.js)
-- 🤖 AI / ML | Web3 | Blockchain Enthusiast
+- 💻 Full Stack Developer (**MERN, Next.js**)
+- 🤖 AI / ML | Web3 | Blockchain
 - 🧠 Strong in **DSA & Problem Solving**
-- 🌱 Actively exploring **Open Source **
+- 🌱 Actively contributing to **Open Source**
 
 ---
 
@@ -36,7 +36,7 @@ I build real-world applications, explore AI & Blockchain, and contribute to open
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nithin9585&theme=dracula&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin9585&theme=dracula&hide_border=false" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ I build real-world applications, explore AI & Blockchain, and contribute to open
 
 ### 🌍 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin9585&theme=dracula&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin9585&theme=dracula&hide_border=true" />
 </p>
 
 ---
