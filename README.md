@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <h3 align="center">
-I'm <b>Nithin</b> — Full Stack Developer | AI/ML & Web3 Enthusiast
+I'm <b>Nithin</b> — Full Stack Developer | AI/ML and Web3 Enthusiast
 </h3>
 
 <p align="center">
