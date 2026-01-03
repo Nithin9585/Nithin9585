@@ -34,24 +34,6 @@ I build real-world applications, explore AI & Blockchain, and contribute to open
 
 ## 📊 GitHub Performance
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithin9585&theme=dracula&hide_border=false" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithin9585&show_icons=true&theme=dracula&hide_border=false" />
-</p>
-
----
-
-### 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin9585&layout=compact&theme=dracula&hide_border=false" />
-</p>
 
 ---
 
