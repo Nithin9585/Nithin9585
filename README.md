@@ -41,13 +41,6 @@ I build real-world scalable applications, explore cutting-edge AI, Machine Learn
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin9585&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Activity Graph" width="95%" />
-</div>
-
----
 
 ### 💻 Coding Activity & Productivity
 
