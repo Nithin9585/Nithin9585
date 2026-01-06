@@ -1,64 +1,74 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<img src="https://komarev.com/ghpvc/?username=Nithin9585&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" align="right" />
 
-<h3 align="center">
-I'm <b>Nithin</b>  Full Stack Developer | AI/ML and Web3 Enthusiast
-</h3>
+# Hey 👋 What's Up? I'm Nithin
 
-<p align="center">
-I build real-world applications, explore AI & Blockchain, and contribute to open source.
+**Full Stack Developer | AI/ML & Web3 Enthusiast** 🚀
+
+I build real-world scalable applications, explore cutting-edge AI, Machine Learning, and Blockchain technologies, and actively contribute to open source projects.
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Pursuing **Integrated M.Tech in Artificial Intelligence & Machine Learning** @ VIT Bhopal
+- 💻 Expert in **Full Stack Development** (MERN Stack, Next.js)
+- 🤖 Deep interest in **AI/ML**, **Web3**, and **Blockchain**
+- 🧠 Strong foundation in **Data Structures & Algorithms** and Problem Solving
+- 🌱 Actively contributing to **Open Source**
+- 🚀 Built scalable full-stack applications with real-world impact
+- 🤝 Hands-on experience from internships and winning hackathons
+
+> "Consistency beats talent when talent doesn't stay consistent."
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
+### 📈 Contribution Graph
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/nithin-n-a4b837275">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://x.com/NithinN356853">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
-  </a>
-  <img src="https://img.shields.io/badge/Discord-nithin0.1-7289DA?style=for-the-badge&logo=discord"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin9585&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Activity Graph" width="95%" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 💻 Coding Activity & Productivity
 
-- 🎓 Integrated **M.Tech (AI & ML)** @ **VIT Bhopal**
-- 💻 Full Stack Developer (**MERN, Next.js**)
-- 🤖 AI / ML | Web3 | Blockchain
-- 🧠 Strong in **DSA & Problem Solving**
-- 🌱 Actively contributing to **Open Source**
+<div align="center">
+  
+  [![Nithin's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin9585&theme=tokyonight)](https://github.com/Nithin9585)
+  
+</div>
 
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithin9585&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin9585&theme=tokyonight" alt="Most Commit Language" />
+</div>
 
-## 📊 GitHub Performance
-
-
----
-
-### 🌍 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithin9585&theme=dracula&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin9585&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nithin9585&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
 
 ---
 
-## 📌 Highlights
 
-- 🚀 Built **scalable full-stack applications**
-- 🤝 Experience with **internships & hackathons**
-- 🧠 Focus on **clean code & problem-solving**
-- 🌟 Open-source contributor mindset
 
----
-
-## 🤝 Let’s Connect
-
-- 💼 Open to **Internships | Open Source | Hackathons**
-- ⭐ Star repositories if you find them useful
-- 📬 Reach out on LinkedIn or Twitter
-
-<p align="center">
-<b>“Consistency beats talent when talent doesn’t stay consistent.”</b>
-</p>
+#GitHub #Developer #AI #Web3 #FullStack
