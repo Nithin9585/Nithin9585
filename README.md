@@ -2,7 +2,7 @@
 
 # Hey 👋 What's Up? I'm Nithin
 
-**Full Stack Developer | AI/ML & Web3 Enthusiast** 🚀
+**Full Stack Developer | AI/ML & Web3 Enthusiast** 
 
 I build real-world scalable applications, explore cutting-edge AI, Machine Learning, and Blockchain technologies, and actively contribute to open source projects.
 
