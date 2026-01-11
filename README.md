@@ -42,26 +42,4 @@ I build real-world scalable applications, explore cutting-edge AI, Machine Learn
 ---
 
 
-### 💻 Coding Activity & Productivity
-
-<div align="center">
-  
-  [![Nithin's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin9585&theme=tokyonight)](https://github.com/Nithin9585)
-  
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithin9585&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin9585&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithin9585&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nithin9585&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</div>
-
----
-
-
-
 #GitHub #Developer #AI #Web3 #FullStack
